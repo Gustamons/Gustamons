@@ -2,7 +2,7 @@
 - 👀 I’m interested in dabbling in programming potentially
 - 🌱 I’m currently learning python(pygame)
 - 💞️ I’m looking to collaborate on Not yet sure
-- 📫 How to reach me sent a message
+- 📫 How to reach me: send a message
 
 <!---
 Gustamons/Gustamons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
